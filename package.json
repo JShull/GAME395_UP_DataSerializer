@@ -1,0 +1,38 @@
+{
+  "name": "com.jfuzz.odudataserial",
+  "version": "0.1.0",
+  "displayName": "ODU Data Serializer",
+  "description": "Is a Data Serializer for the Game 395 Class. \nThis combines simple and effective methods for serialization.\nJSON and Byte Array example included",
+  "unity": "2020.3",
+  "unityRelease": "38f1",
+  "documentationUrl": "https://github.com/jshull/GAME395_UP_DataSerializer.git",
+  "changelogUrl": "https://github.com/jshull/GAME395_UP_DataSerializer.git",
+  "licensesUrl": "https://github.com/jshull/GAME395_UP_DataSerializer.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jshull/GAME395_UP_DataSerializer.git"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "samples": [
+    {
+      "displayName": "Data Serialization Example Scene",
+      "description": "Some code to help explain how serialization works",
+      "path": "Samples/Data/"
+    }
+  ],
+  "keywords": [
+    "Data",
+    "Serialization",
+    "ODU",
+    "GAME395",
+    "GameDesign"
+  ],
+  "author": {
+    "name": "John Shull",
+    "email": "the.john.shull@gmail.com",
+    "url": "https://github.com/jshull"
+  },
+  "type": "tool"
+}

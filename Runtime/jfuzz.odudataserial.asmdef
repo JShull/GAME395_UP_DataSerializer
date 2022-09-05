@@ -1,0 +1,23 @@
+{
+    "name": "ODUDataSerial",
+    "rootNamespace": "ODU.Data",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
