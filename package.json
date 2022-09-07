@@ -1,5 +1,5 @@
 {
-  "name": "com.jfuzz.com.jfuzz.odudataserial",
+  "name": "com.jfuzz.odudataserial",
   "version": "0.2.0",
   "displayName": "ODU Data Serializer",
   "description": "Is a Data Serializer for the Game 395 Class. \nThis combines simple and effective methods for serialization.\nJSON and Byte Array example included",
