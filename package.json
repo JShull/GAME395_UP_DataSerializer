@@ -19,7 +19,7 @@
     {
       "displayName": "Data Serialization Example Scene",
       "description": "Some code to help explain how serialization works",
-      "path": "Samples/Data/"
+      "path": "Samples~/Data/"
     }
   ],
   "keywords": [

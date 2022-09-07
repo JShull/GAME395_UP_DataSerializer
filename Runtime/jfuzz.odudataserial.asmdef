@@ -1,5 +1,5 @@
 {
-    "name": "ODUDataSerial",
+    "name": "jfuzz.odudataserial",
     "rootNamespace": "ODU.Data",
     "references": [],
     "includePlatforms": [],
