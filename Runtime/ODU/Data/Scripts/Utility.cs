@@ -111,7 +111,7 @@ namespace ODU.Data{
         /// <param name="path">full path to the file</param>
         /// <param name="dataType">our data type</param>
         /// <returns></returns>
-        internal static bool ReadJSONFile<T>(string path, ref T dataType)
+        public bool ReadJSONFile<T>(string path, ref T dataType)
         {
             if (File.Exists(path))
             {

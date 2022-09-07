@@ -134,7 +134,7 @@ namespace ODU.Data
             {
                 AllTransformData.Clear();
                 string folderPath = Path.Combine(Application.persistentDataPath, "TestData");
-                var jsonWork = Utility.ReadJSONFile(Path.Combine(folderPath, "textfile.json"), ref AllTransformData);
+                var jsonWork = Utility.Instance.ReadJSONFile(Path.Combine(folderPath, "textfile.json"), ref AllTransformData);
                 if (jsonWork)
                 {
                     //play it

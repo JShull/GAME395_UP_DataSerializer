@@ -1,0 +1,25 @@
+{
+    "name": "samples",
+    "rootNamespace": "ODU.Data",
+    "references": [
+        "GUID:f15351738934b08468ab88cfbf742e1b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

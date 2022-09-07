@@ -1,6 +1,6 @@
 {
-  "name": "com.jfuzz.odudataserial",
-  "version": "0.1.0",
+  "name": "com.jfuzz.com.jfuzz.odudataserial",
+  "version": "0.2.0",
   "displayName": "ODU Data Serializer",
   "description": "Is a Data Serializer for the Game 395 Class. \nThis combines simple and effective methods for serialization.\nJSON and Byte Array example included",
   "unity": "2020.3",
@@ -19,7 +19,7 @@
     {
       "displayName": "Data Serialization Example Scene",
       "description": "Some code to help explain how serialization works",
-      "path": "Samples/Data/"
+      "path": "Samples~/Data/"
     }
   ],
   "keywords": [
